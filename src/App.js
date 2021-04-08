@@ -4,17 +4,18 @@ import Accordion from './components/Accordion';
 const items = [
   {
     title: 'What is React?',
-    content: 'React is a front end JS framework'
+    content: 'React is a front end JS framework',
   },
   {
-    title: 'What is React?',
-    content: 'React is a favorite JS library'
+    title: 'What do React?',
+    content: 'React is a favorite JS library',
   },
   {
-    title: 'What is React?',
-    content: 'React is a freaking headache'
+    title: 'What for React?',
+    content: 'React is a freaking headache',
   },
 ];
+
 const App = () => {
   return (
     <div>
